@@ -60,4 +60,3 @@ For example:
 `$ cd 'folder'` => go inside a folder 
 
 `$ ls ` ===> list directories 
-
