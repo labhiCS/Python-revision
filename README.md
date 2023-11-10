@@ -1,4 +1,5 @@
-# Python-revision
+## Python-revision
+
 # Python-Course-For-Beginner
 Repo for teaching python to a beginner (my Cousin)
 
@@ -60,3 +61,9 @@ For example:
 `$ cd 'folder'` => go inside a folder 
 
 `$ ls ` ===> list directories 
+
+#### Anaconda  activate
+
+`$ source ~/anaconda3/bin/activate root`
+
+`$ jupyter-notebook`
