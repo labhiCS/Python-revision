@@ -1,6 +1,4 @@
-## Python-revision
-
-# Python-Course-For-Beginner
+## Python-Course-For-Beginner(Revision)
 Repo for teaching python to a beginner (my Cousin)
 
 #### Style:
