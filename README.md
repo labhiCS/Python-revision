@@ -1,4 +1,4 @@
-## Python-revision
+# Python-revision
 # Python-Course-For-Beginner
 Repo for teaching python to a beginner (my Cousin)
 
@@ -53,3 +53,11 @@ For example:
  For example:
  
  `$ git clone -b week4 github_repo-link`
+
+#### Common terminal commands 
+`$ cd ..` => go back a folder 
+
+`$ cd 'folder'` => go inside a folder 
+
+`$ ls ` ===> list directories 
+
