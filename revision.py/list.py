@@ -16,9 +16,11 @@ motorcycles.remove("BMW")
 print(motorcycles)
 
 motorcycles.reverse()   #To reverse.
+motorcycles.pop(0)
 print(motorcycles)
 
 len(motorcycles)  #To find the length of the list.
 
 print(motorcycles[-2])
 print(motorcycles[-1])
+
