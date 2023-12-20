@@ -15,4 +15,4 @@ del motorcycles[4]
 motorcycles.remove("BMW")
 print(motorcycles)
 
-print(motorcycles[-3])
+print(motorcycles[-2])
