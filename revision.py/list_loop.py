@@ -1,6 +1,6 @@
 #Practicing loop in list!!
 
-bikes = ["BMW", "Ducati", "R15", "Honda"]
+bikes = ["BMW", "ducati", "R15", "honda"]
 for i in bikes:
-    print(i.titles()+ ", its a great Bike!!")
+    print(i.title()+ ", it's a great Bike!!")
 
