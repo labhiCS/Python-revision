@@ -7,6 +7,12 @@ for i in bikes:
 # Using range().
 """for i in range(1, 8):
     print(i)"""
+even_numbers = list(range(2, 21, 2))
+print(even_numbers)
 
-number = list(range(1, 7))
-print(number)
+square_numb = []
+for value in range(1, 15):
+    square = value ** 2
+    square_numb.append(square)
+
+print(square_numb)
