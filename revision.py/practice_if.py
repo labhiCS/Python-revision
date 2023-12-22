@@ -7,11 +7,14 @@ for i in fruits:
         print(i.title()) """
 
 
-age = 22
+age = 20
 
-if age < 12:
-    print("Your cannot dringk alcohol.")
-elif age < 20:
-    print("YOu are  yet not alloweded to dring. ")
+if age < 14:
+    price = 50
+elif age <18:
+    price = 70
+elif age < 25:
+    price = 90
 else:
-    print("You can dring alcohol")
+    price = 25
+print("The price of alcohol is $" + str(price) + ".")
