@@ -10,8 +10,8 @@ else:
 
 #Practicing using while loop!!
 
-current_number = 0
-while current_number <= 20:
+current_number = 5
+while current_number <= 18:
     print(current_number)
-    current_number += 1
+    current_number += 2
 
