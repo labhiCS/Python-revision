@@ -1,7 +1,7 @@
-fruits = ["Apple", "Banana", "Mango", "Popaya"]
+fruits = ["apple", "banana", "mango", "popaya"]
 
 for i in fruits:
-    if i == "Apple":
+    if i == "Apple0":
         print(i.upper() + " = True")
     else:
         print(i.title())
