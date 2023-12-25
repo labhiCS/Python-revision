@@ -9,7 +9,7 @@ for i in fruits:
 # Using if loop
 age = 20
 
-if age < 18:
+if age < 28:
     price = 50
 elif age <18:
     price = 70
