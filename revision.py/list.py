@@ -3,11 +3,11 @@ motorcycles.sort()     #To organize
 print(motorcycles)
 print("\n")
 
-message = "My first bike was " + motorcycles[1].title() + "."
+message = "My first bike was " + motorcycles[1] + "."
 print(message)
 
 motorcycles[1] = 'Ns200'
-motorcycles.append("ducati600") #To add
+motorcycles.append("ducati1000") #To add
 motorcycles.append("Toyota")
 
 del motorcycles[-1]     #To remove.
@@ -22,4 +22,4 @@ print(motorcycles)
 len(motorcycles)  #To find the length of the list.
 
 print(motorcycles[-2])
-print(motorcycles[-1])
+print(motorcycles[-0])
