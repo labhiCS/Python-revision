@@ -9,6 +9,7 @@ print(message)
 motorcycles[1] = 'Ns200'
 motorcycles.append("ducati1000") #To add
 motorcycles.append("Toyota")
+motorcycles.append("Suzuki")
 
 del motorcycles[-1]     #To remove.
 del motorcycles[3]
@@ -22,4 +23,4 @@ print(motorcycles)
 len(motorcycles)  #To find the length of the list.
 
 print(motorcycles[-2])
-print(motorcycles[-0])
+print(motorcycles[-1])
