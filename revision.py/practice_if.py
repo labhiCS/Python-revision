@@ -7,7 +7,7 @@ for i in fruits:
         print(i.title()) 
 
 # Using if loop
-age = 20
+age = 27
 
 if age < 28:
     price = 50
