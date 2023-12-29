@@ -1,12 +1,12 @@
 #Chapter 7 userinput and while loops!!
-prompt = "\nTell me something, and I will repeat it back to you:"
+prompt = "\nEnter any number: "
 prompt += "\nEnter 'quit' to end the program. "
 
 message = ""
-while message != 'quit/q':
+while message != 'quit':
     message = input(prompt)
 
-    if message != 'quit/q':
+    if message != 'quit':
         print(message)
 
 #Practicing using while loop!!
