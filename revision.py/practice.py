@@ -1,6 +1,5 @@
 #exercise 4.1
-
-favorite_pizzas = ["chicken", "veg", "mushroom"]
+favorite_pizzas = ["chicken ", "veg", "mushroom", "peporoni"]
 
 for i in favorite_pizzas:
     print(i)
