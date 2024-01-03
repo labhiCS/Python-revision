@@ -10,9 +10,8 @@ while message != 'quit':
         print(message)
 
 #Practicing using while loop!!
-
-current_number = 0
-while current_number <= 15:
+current_number = 7
+while current_number <= 18:
     print(current_number)
     current_number += 2
 
