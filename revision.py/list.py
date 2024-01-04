@@ -11,7 +11,7 @@ motorcycles.append("ducati1000") #To add
 motorcycles.append("Toyota")
 motorcycles.append("Suzuki")
 
-del motorcycles[-2]     #To remove.
+del motorcycles[-1]     #To remove.
 del motorcycles[3]
 motorcycles.remove("BMW")
 print(motorcycles)
@@ -22,5 +22,5 @@ print(motorcycles)
 
 len(motorcycles)  #To find the length of the list.
 
-print(motorcycles[2])
+print(motorcycles[-2])
 print(motorcycles[-1])
