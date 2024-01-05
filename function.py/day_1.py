@@ -3,4 +3,5 @@ def person_name(first_name, last_name):
 
 
 person_name("abhishek ", "Lamichhane")
-person_name("Anup ", "thapa"  )
+person_name("anup ", "thapa"  )
+person_name("anusha ", "thapa")
