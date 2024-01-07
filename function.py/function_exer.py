@@ -1,6 +1,6 @@
 def show_magicians (names):
     for i in names:
-        print(i)
+        print(i.title())
 
-magicians = ['sbhi', 'anu', 'abhijeet']
+magicians = ['abhi', 'anu', 'abhijeet']
 show_magicians(magicians)
