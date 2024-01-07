@@ -1,3 +1,9 @@
+def main():
+    pass
+    
+if __name__ == "__main__":
+    main()
+
 def show_magicians (names):
     for i in names:
         print(i.title())
