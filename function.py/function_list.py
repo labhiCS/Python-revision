@@ -10,4 +10,4 @@ def show_magicians (names):
         megician = "hello, " + i.title() + "."
         print(megician)
 magician = ["Abhi", "Anup", "Anup"]
-show_magicians(i)
+show_magicians(magician)
