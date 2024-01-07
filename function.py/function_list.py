@@ -4,10 +4,10 @@ def main():
 if __name__ == "__main__":
     main()
 
-def user_name(names):
+#exercise 8_9
+def show_magicians (names):
     for i in names:
-        msg = "Hello, " + i.title() + "!"
-        print(msg)
-        
-person_names = ['anup', 'anusha', 'abhi']
-user_name(person_names)
+        megician = "hello, " + i.title() + "."
+        print(megician)
+magician = ["Abhi", "Anup", "Anup"]
+show_magicians(i)
