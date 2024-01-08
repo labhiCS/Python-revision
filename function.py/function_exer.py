@@ -16,8 +16,8 @@ def make_great(magicians):
         great_magician = magician + ': the Great'
         great_magicians.append(great_magician)
 
-    for mag in great_magicians:
-        magicians.append(mag)
+    for i in great_magicians:
+        magicians.append(i)
 
 magicians = ['abhi', 'abhijeet', 'anu', "anup"]
 make_great(magicians)
