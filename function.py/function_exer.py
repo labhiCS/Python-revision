@@ -13,7 +13,7 @@ def make_great(magicians):
 
     while magicians:
         magician = magicians.pop()
-        great_magician = magician + ': the Great'
+        great_magician = magician + ": the Great."
         great_magicians.append(great_magician)
 
     for i in great_magicians:
