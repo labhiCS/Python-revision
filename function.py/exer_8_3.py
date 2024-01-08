@@ -6,5 +6,5 @@ def main():
     make_shirt(20, 'ram')
     make_shirt(size = 20, text_message = 'ram')
 
-if name == "__main__":
+if __name__ == "__main__":
     main()
