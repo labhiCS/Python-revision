@@ -19,6 +19,6 @@ def make_great(magicians):
     for i in great_magicians:
         magicians.append(i)
 
-magicians = ['abhi', 'abhijeet', 'anu', "anup"]
+magicians = ['abhi', 'abhijeet', 'anu', "ram"]
 make_great(magicians)
 show_magicians(magicians)
