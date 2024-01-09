@@ -6,6 +6,7 @@ def main():
     person_name("abhishek", "Lamichhane")
     person_name("anup", "thapa"  )
     person_name("anusha", "thapa")
+    person_name("ram", "sita ")
     
 if __name__ == '__main__':
     main() 
