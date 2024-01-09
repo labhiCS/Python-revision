@@ -5,8 +5,8 @@ def make_shirt(size, text_message):
 
 def main():
 
-    make_shirt(20, 'ram')
-    make_shirt(size = 20, text_message = 'ram')
+    make_shirt(30, 'ram')
+    make_shirt(size = 30, text_message = 'ram')
 
 if __name__ == "__main__":
     main()
