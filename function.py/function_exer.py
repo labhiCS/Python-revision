@@ -21,4 +21,5 @@ def make_great(magicians):
 
 magicians = ['abhi', 'abhijeet', 'anu', "ram"]
 make_great(magicians)
+
 show_magicians(magicians)
