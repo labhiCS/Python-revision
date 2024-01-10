@@ -1,10 +1,11 @@
-def sandwich_list(*sandwich_names):
+def sandwich_list(*sandwich_names):#pointer
     for i in sandwich_names:
         print(i.title() + " sandwich is being ordered.")
 
 def main():
-    sandwich_list('veg')
-    sandwich_list('chicken', 'cheesi')
+    sandwich_list('peeporoni')
+    sandwich_list('buff', 'cheesi')
+    sandwich_list('chicken', 'veg')
 
     
 if __name__ == '__main__':
