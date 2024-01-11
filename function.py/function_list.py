@@ -13,7 +13,7 @@ def show_magicians (names):
     
 def main():
     magician = ["Abhi", "Anup", "Anup"]
-show_magicians(magician)
+    show_magicians(magician)
   
 if __name__ == "__main__":
     main()
