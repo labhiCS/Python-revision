@@ -15,3 +15,8 @@ person_name = {
 print(person_name["first_name"] + person_name["last_name"])
 print(person_name["age"] + "yrs old")
 print("Lives in " + person_name["city"].title() + " city")
+print("\n")
+
+
+for key, value in person_name.items():
+    print(key + " is " + str(value))
