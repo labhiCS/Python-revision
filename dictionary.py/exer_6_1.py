@@ -17,6 +17,5 @@ print(person_name["age"] + "yrs old")
 print("Lives in " + person_name["city"].title() + " city")
 print("\n")
 
-
-for key, value in person_name.items():
-    print(key + " is " + str(value))
+for i, j in person_name.items():
+    print(i + " is " + str(j))
