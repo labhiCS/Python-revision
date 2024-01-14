@@ -1,10 +1,3 @@
-def main():
-    pass
-    
-if __name__ == "__main__":
-    main()  
-
-
 person_name = {
     'first_name': 'Abhishek', 
     'last_name': 'Lamichhane',
