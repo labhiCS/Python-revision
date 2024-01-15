@@ -7,6 +7,6 @@ rivers = {
 for k, v in rivers.items():
     print(k + " river runs through " + v )
     
-print("The following rivers are included in the data:")
+print("\nThe following rivers are included in the data:")
 for key, value in rivers.items():
     print(key + " river.")
