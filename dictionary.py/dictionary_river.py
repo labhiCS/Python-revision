@@ -13,6 +13,6 @@ for key, value in world_rivers.items():
 
     
 print("\nThe following countries are included in the data: ")
-for key, value in worldrivers.items():
+for key, value in world_rivers.items():
     print("- " + value)
     
