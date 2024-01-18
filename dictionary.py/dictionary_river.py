@@ -2,6 +2,7 @@ world_rivers = {
     'Bishnumati': 'Machhapokhari',
     'Hang Ho': 'China',
     'Nile': 'Egypt',
+    'gandaki':'nepal',
 }
 
 for k, v in world_rivers.items():
