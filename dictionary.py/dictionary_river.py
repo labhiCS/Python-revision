@@ -11,9 +11,7 @@ for k, v in world_rivers.items():
 print("\n The following rivers are included in the data: ")
 for key, value in world_rivers.items():
     print(" - " +key + " river.")
-
-    
+ 
 print("\nThe following countries are included in the data: ")
 for key, value in world_rivers.items():
     print("- " + value)
-    
