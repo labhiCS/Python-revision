@@ -3,6 +3,7 @@ person_name = {
     'last_name': 'Lamichhane',
     'age': '19',
     'city': 'kathmandu',
+    "college" : "NCMT ",
     }
 
 print(person_name["first_name"] + person_name["last_name"])
