@@ -7,11 +7,11 @@ for i in fruits:
         print(i.title()) 
 
 # Using if loop
-age = 27
+age = 22
 
-if age < 28:
+if age < 18:
     price = 50
-elif age <18:
+elif age <28:
     price = 70
 elif age < 25:
     price = 100
