@@ -7,6 +7,5 @@ def main():
     sandwich_list('buff', 'cheesi')
     sandwich_list('chicken', 'veg')
 
-    
 if __name__ == '__main__':
     main()
