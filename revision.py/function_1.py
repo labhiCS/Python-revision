@@ -8,6 +8,5 @@ def main():
     describe_city(city_name= 'N.J', country= 'America')
     describe_city(city_name= 'Tokyo', country = 'Japan')
     
-
 if __name__ == "__main__":
     main()
