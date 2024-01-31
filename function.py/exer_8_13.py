@@ -11,7 +11,7 @@ def build_profile(first, last, **user_info):
 def main():
     user_info = build_profile('abhishek', 'lamichhane', age = 21,address = 'kharibot', profile = 'student')
     user_info2 = build_profile('anup', 'thapa', age = 26)
-    user_info3 = build_profile('anusha', 'thapa', age = 25, address = 'USA', profile = 'student')
+    user_info3 = build_profile('anusha', 'thapa', age = 25, address = 'USA', profession='doctor')
      
     print(user_info)
     print("\n")
