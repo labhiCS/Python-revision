@@ -16,5 +16,6 @@ rest_2 = Resturant('chineese cousine', 'chineese')
 
 rest_1.describe_resturant()
 rest_1.open_resturant()
+print("\n")
 rest_2.describe_resturant()
 rest_2.open_resturant()
