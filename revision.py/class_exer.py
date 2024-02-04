@@ -12,6 +12,7 @@ class Resturant():
         print(self.resturant_name.title()+ " is opened.")
 
 rest_1 = Resturant('Gorkhali Vansaghar', 'Neplese dish')
+rest_2 = Resturant('chineese cousine', 'chineese')
 
 rest_1.describe_resturant()
 rest_1.open_resturant()
