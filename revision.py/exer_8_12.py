@@ -5,6 +5,7 @@ def sandwich_list(*sandwich_names):
 
 def main():
     sandwich_list('veg')
+    sandwich_list('chicken', 'grilled')
     
 if __name__ == '__main__':
     main()
