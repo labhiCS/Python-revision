@@ -11,6 +11,7 @@ def build_profile(first, last, **user_info):
 def main():
     user_info = build_profile('abhishek', 'lamichhane', age = 19, address = 'kharibot', profile = 'student')
     print(user_info)
+    print("\n")
 
 if __name__ == '__main__':
     main()
