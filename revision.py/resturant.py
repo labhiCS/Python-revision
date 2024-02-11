@@ -9,11 +9,12 @@ class User():
         print(self.first_name + " " + self.last_name + " is a " + self.profession)
 
     def greet_user(self):
-        print("Hello " + self.first_name + " " + self.last_name)
+        print("Hello, " + self.first_name + " " + self.last_name)
 
 user = User('abhi', 'lamichhane', 15, 'student')
 user_1 = User('anup', 'thapa', 22, 'Army. ')
 
 user.describe_user()
 user_1.describe_user()
+user_1.greet_user()
     
