@@ -12,7 +12,7 @@ class User():
         print("Hello, " + self.first_name + " " + self.last_name + ".")
 
 user = User('abhi', 'lamichhane', 15, 'student.')
-user_1 = User('anup', 'thapa', 22, 'Army. ')
+user_1 = User('anu', 'thapa', 25, 'doctor. ')
 
 user.describe_user()
 user.greet_user()
