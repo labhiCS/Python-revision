@@ -7,6 +7,7 @@ def main():
     describe_city(city_name= 'kolkota', country = 'India')
     describe_city(city_name= 'N.J', country= 'America')
     describe_city(city_name= 'Tokyo', country = 'Japan')
+    describe_city(city_name= 'kathmandu')
     
 if __name__ == "__main__":
     main()
