@@ -1,6 +1,6 @@
 #Chapter 7 userinput and while loops!!
-prompt = "\nEnter any number: "
-prompt += "\nEnter 'quit' to end the program. "
+prompt = ("\nEnter any number: ")
+prompt += ("\nEnter 'quit' to end the program. ")
 
 message = ""
 while message != 'quit':
