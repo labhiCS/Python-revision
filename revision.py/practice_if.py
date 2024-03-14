@@ -16,5 +16,5 @@ elif age <28:
 elif age < 25:
     price = 100
 else:
-    price = 25
+    price = 20
 print("The price of alcohol is $" + str(price) + ".")
