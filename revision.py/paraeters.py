@@ -5,7 +5,7 @@ def main():
     user_name(first_name = 'abhi', age= 26, last_name='lamichhane')
     user_name(first_name="nani", last_name= "simkhada", age = 80)
     user_name(first_name="anup", last_name= "Thapa", age= 29)
-    user_name(first_name="anusha")
+    user_name(first_name="apsara", last_name="Adhakari")
     
 if __name__ == "__main__":
     main()
