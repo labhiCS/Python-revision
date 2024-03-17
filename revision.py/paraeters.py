@@ -1,6 +1,6 @@
 def user_name(first_name,last_name, address="", age=24):
     print(first_name.title() + " " + last_name + " is " + str(age) + "years old.")
-    print(first_name.title() + " " + last_name + " " + address)
+    print(first_name.title() + " " + last_name + " address is " + address)
 
 def main():
     user_name(first_name = 'abhi', age= 26, last_name='lamichhane')
