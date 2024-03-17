@@ -13,5 +13,5 @@ while message != 'quit':
 current_number = 9
 while current_number <= 21:
     print(current_number)
-    current_number += 2
+    current_number += 3
 
