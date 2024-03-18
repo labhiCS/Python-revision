@@ -10,7 +10,7 @@ def build_profile(first, last, middle,  **user_info):
     return profile
 
 def main():
-    user_info = build_profile('abhishek', 'bahadur', 'lamichhane', age = 19, profile = 'student')
+    user_info = build_profile('abhishek', 'lamichhane', 'bahadur', age = 19, profile = 'student')
     print(user_info)
     print("\n")
 
