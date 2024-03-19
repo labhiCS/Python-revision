@@ -12,7 +12,7 @@ def build_profile(first, last, middle,  **user_info):
 def main():
     user_info = build_profile('Abhishek', 'Lamichhane', 'Bahadur', age = 19, profile = 'student')
     print(user_info)
-    stunent_info = build_profile('Abhijeet', 'Thapa', 'Bikram', profile = 'student')
+    stunent_info = build_profile('Abhijeet', 'Thapa', 'Bikram', profile = 'student', Address = 'Kharibot')
     print(stunent_info)
     print("\n")
 
