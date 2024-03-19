@@ -10,9 +10,9 @@ def build_profile(first, last, middle,  **user_info):
     return profile
 
 def main():
-    user_info = build_profile('abhishek', 'lamichhane', 'bahadur', age = 19, profile = 'student')
+    user_info = build_profile('Abhishek', 'Lamichhane', 'Bahadur', age = 19, profile = 'student')
     print(user_info)
-    stunent_info = build_profile('abhijeet', 'thapa')
+    stunent_info = build_profile('Abhijeet', 'Thapa', 'Bikram')
     print(stunent_info)
     print("\n")
 
