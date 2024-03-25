@@ -17,6 +17,7 @@ def main():
     print("\n")
     stunent_info2 = build_profile('Anusha', 'Thapa', 'Bikram', profile = 'Bachlor Student', Address = 'USA')
     print(stunent_info2)
+    print("\n")
 
 if __name__ == '__main__':
     main()
