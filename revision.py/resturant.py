@@ -14,10 +14,13 @@ class User():
 user = User('abhi', 'guragain', 16, 'student.')
 user_1 = User('anu', 'thapa', 25, 'doctor. ')
 user_2 = User('abijeet', 'lamichhane')
+
 user.describe_user()
 user.greet_user()
 print("\n")
 
+
 user_1.describe_user()
 user_1.greet_user()
-    
+
+user_2.describe_user()
