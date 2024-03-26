@@ -25,3 +25,4 @@ user_1.greet_user()
 print("\n")
 
 user_2.describe_user()
+user_2.greet_user()
