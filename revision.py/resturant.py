@@ -12,8 +12,8 @@ class User():
         print("Hello, " + self.first_name + " " + self.last_name + ".")
 
 user = User('abhi', 'guragain', 16, 'student.')
-user_1 = User('anu', 'thapa', 25, 'doctor. ')
-user_2 = User('rose', 'lamichhane', 19, 'Nures' )
+user_1 = User('anu', 'thapa', 25, 'Doctor. ')
+user_2 = User('rose', 'lamichhane', 19, 'Nurse' )
 
 user.describe_user()
 user.greet_user()
